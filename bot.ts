@@ -41,7 +41,7 @@ export const setWebAppButton = async () => {
             menu_button: {
                 type: "web_app",
                 text: "Rats Kingdom",
-                web_app: { url: `https://50e3-2402-a00-152-cd37-bf2d-791d-4548-54ed.ngrok-free.app` },
+                web_app: { url: `https://1c13-2402-a00-152-cd37-bf2d-791d-4548-54ed.ngrok-free.app` },
             },
         });
         console.log("Menu Button Set:", response.data);
